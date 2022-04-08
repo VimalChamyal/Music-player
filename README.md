@@ -10,3 +10,5 @@ UI for music player including spinning image and song detail popup
 Add play and pause functionality
 Switch songs
 Progress bar
+
+![image](https://user-images.githubusercontent.com/101229988/162341011-b5fc3e33-59ff-426e-ac92-461aba864f20.png)
